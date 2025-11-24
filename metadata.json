@@ -1,0 +1,5 @@
+{
+  "name": "Global Export Market Finder",
+  "description": "An AI-powered tool to help exporters find potential international buyers using Google Maps and Search grounding.",
+  "requestFramePermissions": []
+}
